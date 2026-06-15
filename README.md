@@ -1,4 +1,4 @@
-# Danny | Junior ML Engineer & Python Developer 👋
+# Aidana | Junior ML Engineer & Python Developer 👋
 
 Final-year Computer Science student focusing on Data Science, Machine Learning, and Backend development. Looking for Junior / Internship roles.
 
